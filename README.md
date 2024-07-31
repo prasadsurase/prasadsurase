@@ -16,3 +16,6 @@ You can click the Preview link to take a look at your changes.
 ### 🏆 Github Profile Trophy
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=prasadsurase&column=8&theme=gruvbox&no-frame=true"/>
+
+### Certifications
+https://udemy-certificate.s3.amazonaws.com/image/UC-bb9408e2-b675-476a-b105-0a5a47fb6d77.jpg
